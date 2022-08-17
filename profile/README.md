@@ -1,6 +1,7 @@
 ## NeptunsWorld.com
-Minecraft network themed in a ancient greek style with the goal to create a unique gaming experience for all players. 
-Always updated to the newest mc-version. (Currently on 1.19.2)
+Minecraft network themed in a ancient greek style with the goal to create a unique gaming experience for all players. Always updated to the newest mc-version. (Currently on 1.19.2)
+  	
+Special thanks to @MenschenToaster and @Jxnnikk for helping out in various situations with their knowlegde and time!
   	
 ## Information
 [![Version](https://img.shields.io/badge/Network%20Version-Alpha%20(Internal)-blue?style=for-the-badge&logo=appveyor)](https://terium.cloud)
