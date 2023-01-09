@@ -1,5 +1,5 @@
 ## NeptunsWorld.com
-Minecraft network themed in a ancient greek style with the goal to create a unique gaming experience for all players. Always updated to the newest mc-version. (Currently on 1.19.2)
+Minecraft network themed in a ancient greek style with the goal to create a unique gaming experience for all players. Always updated to the newest mc-version. (Currently on 1.19.3)
   	
 Special thanks to @MenschenToaster and @Jxnnikk for helping out in various situations with their knowlegde and time!
   	
